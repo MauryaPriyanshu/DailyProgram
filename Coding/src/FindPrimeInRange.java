@@ -3,7 +3,7 @@ public class FindPrimeInRange {
     public static void main(String[] args){
         int num1 = 1;
         int num2 = 30;
-        for(int i = num1; i < num2-1; i++){
+        for(int i = num1; i <= num2; i++){
             if(isPrime(i)){
                 System.out.print(i + " ,");
             }
