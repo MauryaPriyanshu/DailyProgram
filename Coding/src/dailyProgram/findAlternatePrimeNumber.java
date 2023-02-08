@@ -2,7 +2,7 @@ package dailyProgram;
 
 public class findAlternatePrimeNumber {
     public static void main(String[] args) {
-        int num1 = 30;
+        int num1 = 100000;
         System.out.println("print the alternate prime number till the range of:" + num1 );
         altPrimeNumber(num1);
     }
