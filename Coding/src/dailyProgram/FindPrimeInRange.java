@@ -1,3 +1,5 @@
+package dailyProgram;
+
 // FIND THE PRIME NUMBER IN THE GIVEN RANGE ************
 public class FindPrimeInRange {
     public static void main(String[] args){
