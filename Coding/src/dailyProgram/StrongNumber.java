@@ -1,5 +1,7 @@
 package dailyProgram;
 
+//Strong number is a number whose sum of factorial digit is equal to the number itself....
+
 public class StrongNumber {
     public static void main(String[] args){
         int num = 150;
