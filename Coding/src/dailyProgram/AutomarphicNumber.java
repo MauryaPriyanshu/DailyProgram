@@ -1,5 +1,5 @@
 package dailyProgram;
-
+//AUTOMARPHIC : A Number that when squared ends with the number itself is known as the Automorphic Number...
 public class AutomarphicNumber {
     public static void main(String [] argfs){
         int num = 8;

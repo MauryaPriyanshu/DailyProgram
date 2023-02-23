@@ -1,6 +1,9 @@
 package dailyProgram;
 
 public class PerfectNumber {
+
+    //A Number that can be represented as the sum of
+    // it's factors except the number itself is known as the Perfect Number.
     public static void main(String[] args){
         int num = 8;
         int sum = 0;
