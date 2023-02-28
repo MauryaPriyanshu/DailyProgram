@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afe8784b-7018-4040-88ca-74d97980c44e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Coding/dailyProgram/FriendlyPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Coding/dailyProgram/HarshedNUmber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriendlyPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarshedNUmber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Coding/dailyProgram/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Coding/dailyProgram/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomarphicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomarphicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/PerfectNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
