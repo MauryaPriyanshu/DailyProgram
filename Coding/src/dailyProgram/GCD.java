@@ -2,8 +2,8 @@ package dailyProgram;
 
 public class GCD {
     public static void main(String[] args){
-        int num1 = 32;
-        int num2 = 18;
+        int num1 = 30;
+        int num2 = 36;
         System.out.println("gcd of the two number is : " + gcd(num1,num2));
     }
 
