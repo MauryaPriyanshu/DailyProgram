@@ -4,7 +4,7 @@ import static java.lang.Math.pow;
 
 public class ArmstrongNumber {
     public static void main(String[] args) {
-        int num = 153;
+        int num = 153 ;
         int count = order(num);
         checkArmstrong(num,count);
     }
