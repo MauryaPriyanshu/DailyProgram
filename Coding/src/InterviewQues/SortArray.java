@@ -1,5 +1,7 @@
 package InterviewQues;
 
+// Sort the first half array in ascending order and second half in descending order
+
 public class SortArray {
     public static void main(String [] args){
         int[] arr = {5,2,1,9,4,7,6};
