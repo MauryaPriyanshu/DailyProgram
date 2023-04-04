@@ -1,6 +1,7 @@
 package dailyProgram;
 
-public class HighestCommenFactor {
+public class
+HighestCommenFactor {
     public static void main(String[] args){
         int num1 = 12;
         int num2 = 6;
