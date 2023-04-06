@@ -2,7 +2,7 @@ package InterviewQues;
 
 public class ReverseString {
     public static void main(String[] args){
-        String str = "priyanshu";
+        String str = "priyanshu is a good girl";
         char[] arr = str.toCharArray();
         char temp = 0;
 //        String rev = " ";

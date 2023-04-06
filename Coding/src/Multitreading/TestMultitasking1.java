@@ -1,5 +1,6 @@
 package Multitreading;
 
+//java thread example by implementing runnable interface
 class TestMultitasking1 implements Runnable{
     public void run(){
         System.out.println("task two");

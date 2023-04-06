@@ -1,5 +1,6 @@
 package Multitreading;
 
+//java thread example by extending Thrad class
 public class TestMultitasking  extends Thread{
     public void run(){
         System.out.println("task One");
