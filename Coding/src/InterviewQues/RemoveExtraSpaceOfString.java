@@ -5,9 +5,11 @@ import java.util.Arrays;
 //How do you remove leading and trailing spaces from a string in Java?
 public class RemoveExtraSpaceOfString {
     public static void main(String[] args){
-        String sen = "Life is  good";
-//        sen = sen.replaceAll("\\s","");
-//        System.out.println(sen);
+        String sen = "  Life is good  ";
+//
+        System.out.println(sen.trim());
+        sen = sen.replaceAll("\\ "," ");
+        System.out.println(sen);
         String[] str = sen.split(" ");
         String reverse = "";
         for(int i = 0; i < str.length; i++){
