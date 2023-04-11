@@ -13,7 +13,7 @@ public class SortingArray {
                 }
             }
         }
-        System.out.println("After Sorting thev element of the array are: ");
+        System.out.println("After Sorting the element of the array are: ");
         for(int i = 0; i < arr.length-1; i++){
             System.out.print(arr[i] + " ");
         }
