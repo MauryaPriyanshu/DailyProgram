@@ -8,18 +8,20 @@ public class FrequencyOfElement {
 
         for(int i = 0; i < arr.length; i++){
             int count = 1;
+            if(arr[i] != visited)
+            {
             for(int j = i+1; j < arr.length; j++){
                 if(arr[i] == arr[j]){
                     count++;
-                    new_arr[j] = visited;
+                    arr[j] = visited;
                 }
             }
-            if(arr[i] != visited){
+
                  new_arr[i] = count;
             }
         }
         for(int i = 0; i < new_arr.length; i++){
-            if(new_arr[i] != visited)
+            if(arr[i] != visited)
             System.out.println("Frequency of " +arr[i] + "|" + new_arr[i]);
         }
     }
