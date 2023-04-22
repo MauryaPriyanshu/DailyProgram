@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="afe8784b-7018-4040-88ca-74d97980c44e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Rectange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Rectange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dailyProgram/dailyProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dailyProgram/dailyProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dailyProgram/dailyProgram/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dailyProgram/dailyProgram/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dailyProgram/dailyProgram/HighestCommenFactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dailyProgram/dailyProgram/HighestCommenFactor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -26,10 +44,10 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DailyProgram&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/DailyProgram/Coding/src/dailyProgram&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RemoveDuplicate">
     <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dailyProgram.EvenOrOdd" />
       <module name="dailyProgram" />
@@ -43,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyProgram.RemoveDuplicate" />
+      <module name="dailyProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dailyProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.EvenOrOdd" />
       </list>
     </recent_temporary>
