@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe8784b-7018-4040-88ca-74d97980c44e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Rectange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Rectange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multitreading/priyanshu/com/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/DailyProgram/Coding/src"
+    "last_opened_file_path": "D:/DailyProgram/Coding/src/dailyProgram"
   }
 }]]></component>
   <component name="RunManager" selected="Application.RemoveDuplicate">
