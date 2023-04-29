@@ -5,7 +5,7 @@ public class RemoveDuplicate {
         int[] arr = {10, 20, 20, 30, 50, 50,60,80};
         int n = arr.length;
         n = removeDuplicateElements(arr,n);
-        System.out.print("After removing the duplicate element from the array :");
+        System.out.println("***********After removing the duplicate element from the array*********");
         for(int i = 0; i < n; i++){
             System.out.print(arr[i]+" ");
         }

@@ -15,6 +15,7 @@ public class RemoveDuplicateFromUnsortedArray {
             if(hm.containsKey(arr[i])){
                 hm.remove(arr[i]);
             }
+
             hm.put(arr[i],i);
         }
 
