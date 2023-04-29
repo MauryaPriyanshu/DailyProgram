@@ -3,8 +3,8 @@ package dailyProgram;
 // FIND THE PRIME NUMBER IN THE GIVEN RANGE ************
 public class FindPrimeInRange {
     public static void main(String[] args){
-        int num1 = 1;
-        int num2 = 30;
+        int num1 = 50;
+        int num2 = 72;
         for(int i = num1; i <= num2; i++){
             if(isPrime(i)){
                 System.out.print(i + " ,");

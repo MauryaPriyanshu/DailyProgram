@@ -1,15 +1,18 @@
 package InterviewQues;
 
 public class ReverseString {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String str = "priyanshu is a good girl";
         char[] arr = str.toCharArray();
         char temp = 0;
-//        String rev = " ";
-//        for(int i = arr.length-1; i >= 0; i--){
-//            rev = rev + arr[i];
+// 1)       String rev = " ";
+//        for (int i = str.length() - 1; i >= 0; i--) {
+//            rev = rev + str.charAt(i);
 //        }
 //        System.out.println(rev);
+//    }
+
+
 
         for(int i = 0; i <= arr.length/2; i++){
             temp = arr[i];
