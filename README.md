@@ -1,2 +1,2 @@
 # DailyProgram
-Task to solve daily solve program
+Task to solve daily leetcode question
